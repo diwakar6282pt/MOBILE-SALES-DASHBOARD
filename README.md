@@ -18,6 +18,7 @@ By Month, Brand, Mobile Model, and Payment Method
 
 ## Geographic Sales Overview:
 Sales performance visualized on a map of Indian cities, highlighting top-performing regions like Mumbai, Delhi, Chennai, and Hyderabad.
+- Dashboard interaction <a href="https://github.com/diwakar6282pt/MOBILE-SALES-DASHBOARD/blob/main/Screenshot%202025-06-19%20124152.png"View Dashboard</a>
 
 ## Trend Analysis:
 Monthly breakdown of quantity sold with visible highs in March and July.
