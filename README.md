@@ -9,7 +9,8 @@ Total Quantity Sold: 2,000 units
 Total Transactions: 331
 Average Price: ₹41.32K per unit
 
-##DATASET USED
+## DATASET USED
+-<a href="https://github.com/diwakar6282pt/MOBILE-SALES-DASHBOARD/blob/main/Mobile%20Sales%20Data.xlsx"> Dataset</a>
 
 
 ## Filters:
